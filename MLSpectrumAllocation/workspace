@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/home/caitao/Project/Commons"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onWindowChange",
+		"python.linting.pylintArgs": [
+			"/home/caitao/Project/Commons"
+		]
+	}
+}
