@@ -1,0 +1,4 @@
+- DeepAlloc.ipynb -- Notebook for training deep learning models for spectrum allocation. This is the main file that includes the various models proposed in the paper, as well as data preprocessing.
+- LinearNN.py -- Python file for training simple neural networks for specturm allocation
+- KNN.ipynb -- Notebook for training K-nearest neighbor for spectrum allocation
+- SVM_SVR.ipynb -- Notebook for training support vector regression for spectrum allocation
